@@ -18,11 +18,13 @@ package com.giteclipse;
 public class TestEclipse {
 
 	public static void main(String[] args) {
-		
-                System.out.println(1);
-                
-                System.out.println(22323232);
+		Haha ();
 	}
 
+	private static void Haha() {
+		System.out.println("可以预见的  19年又是许多 flag");
+	}
+
+	
 	
 }
