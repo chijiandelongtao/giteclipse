@@ -23,6 +23,10 @@ public class TestEclipse {
 
 	private static void Haha() {
 		System.out.println("可以预见的  19年又是许多 flag");
+		
+		System.out.println("生活的意义并不是与他人争高下，而在于享受努力实现目标的过程，结果是对自己行动的嘉奖。");
+		
+		System.out.println("要学会放弃，学会接受自己，学会找到自己真正喜欢的事情。如果某件事情是你工作和生活所依赖的，那么试着去喜欢她吧");
 	}
 
 	
