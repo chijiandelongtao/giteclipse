@@ -30,7 +30,7 @@ public class TestEclipse {
 	}
 
 	public void name() {
-		
+		System.out.println("ssss");
 	}
 	
 }
