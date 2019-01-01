@@ -29,6 +29,8 @@ public class TestEclipse {
 		System.out.println("要学会放弃，学会接受自己，学会找到自己真正喜欢的事情。如果某件事情是你工作和生活所依赖的，那么试着去喜欢她吧");
 	}
 
-	
+	public void name() {
+		
+	}
 	
 }
