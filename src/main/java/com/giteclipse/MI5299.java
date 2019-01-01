@@ -11,8 +11,4 @@ public class MI5299 {
 	public static void test() {
 		System.out.println("方阿飞");
 	}
-	
-	public static void tes1() {
-		System.out.println("方阿飞");
-	}
 }
